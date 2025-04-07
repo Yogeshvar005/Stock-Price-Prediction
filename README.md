@@ -1,5 +1,4 @@
 # Stock-Price-Prediction
-
 ## AIM
 
 To develop a Recurrent Neural Network model for stock price prediction.
@@ -74,11 +73,11 @@ for epoch in range(epochs):
 
 ### True Stock Price, Predicted Stock Price vs time
 
-![image](https://github.com/user-attachments/assets/54149171-92cb-4fed-bd0a-e9ef0d16638c)
+![image](https://github.com/user-attachments/assets/654ee233-adcd-4c1f-9dc4-9586296326a9)
 
 ### Predictions 
 
-![image](https://github.com/user-attachments/assets/753a0aea-fd8d-4e99-badc-b7efbc03964c)
+![image](https://github.com/user-attachments/assets/867db44e-a878-43b7-bb6f-27236b226829)
 
 ## Result
 
